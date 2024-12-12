@@ -34,8 +34,8 @@ This project is a RESTful API built with Node.js, Express, and MongoDB. It provi
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/task-api-nodejs.git
-   cd task-api-nodejs
+   git clone https://github.com/Zain-Alee/Assessment.git
+   cd Assessment
    ```
 
 2. **Install Dependencies**
